@@ -1,7 +1,7 @@
 {
   "name": "reazy-native-router-actions",
   "description": "A router module (based on react-native-router-flux) for your Reazy application.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
