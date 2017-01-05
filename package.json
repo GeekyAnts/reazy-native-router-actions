@@ -3,7 +3,20 @@
   "description": "A router module (based on react-native-router-flux) for your Reazy application.",
   "version": "0.0.1",
   "main": "dist/index.js",
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GeekyAnts/reazy-native-router-actions.git"
+  },
+  "keywords": [
+    "reazy",
+    "reazy-native-router-actions",
+    "react",
+    "react",
+    "native",
+    "framework"
+  ],
+  "author": "Kumar Sanket, Himanshu Satija, Sankhadeep Roy",
+  "license": "Apache-2.0",
   "engines": {
     "node": ">= 4"
   },
